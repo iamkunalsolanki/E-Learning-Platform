@@ -9,8 +9,8 @@ A fully responsive, modern E-Learning Platform built with React.js, designed to 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/e-learning-platform.git
-cd e-learning-platform
+git clone https://github.com/your-username/e-learning-platform.git](https://github.com/iamkunalsolanki/-E-Learning-Platform-.git
+cd -E-Learning-Platform-
 ```
 
 ### 2. Install Dependencies
